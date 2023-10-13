@@ -8,7 +8,7 @@
         { type: "hls", file: "<?php echo $_SERVER['QUERY_STRING'] ?>", label: "720p" },
       ];
     </script>
-    <script src="https://ssl.p.jwpcdn.com/player/v/8.26.2/jwplayer.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/linhminaz/jwplayer@main/jw.8.21.2.min.js"></script>
   </head>
 
   <body style="margin: 0">
